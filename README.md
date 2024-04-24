@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Casado107
+-  I’m interested in java, python and sql
+-  I’m currently learning java and sql
+- 📫 How to reach me marcocmcoco@gmail.com
